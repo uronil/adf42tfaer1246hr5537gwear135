@@ -1,1 +1,1 @@
-# ha-ignore-errors
+["a1b2c3d4", "e5f6g7h8"]
